@@ -4,4 +4,4 @@
 <br><br>
 使用Safari打开：<a href="https://cowan97.github.io/Shadowrocket/">https://cowan97.github.io/Shadowrocket/</a>
 <br><br>
-在点击 <a href="itms-services://?action=download-manifest&url=./Shadowrocket.plist">下载</a> 即可安装
+在点击 <a href="itms-services://?action=download-manifest&url=https://cowan97.github.io/Shadowrocket/Shadowrocket.plist">下载</a> 即可安装
