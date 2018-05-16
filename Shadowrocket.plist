@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>ipa文件的外链，这个外链可以不是https的，也就是说http即可</string>  <!--ipa地址-->
+                    <string>./Shadowrocket-2.1.11.ipa</string>  <!--ipa地址-->
                 </dict>
                 <dict>
                     <key>kind</key>
