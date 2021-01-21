@@ -1,5 +1,5 @@
 # Shadowrocket       IOS
->因IOS限制，无法使用。已停止更新
+> <font color=red>因IOS限制，无法使用。已停止更新</font>
 
 小火箭<br>版本号：Rev.2.1.11<br>
 <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/22/a7/f2/22a7f210-7de5-8d7f-e7a2-24f498c605ca/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg">
