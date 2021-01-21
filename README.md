@@ -5,5 +5,5 @@
 使用Safari打开：<a href="https://ec-to.github.io/Shadowrocket/">https://ec-to.github.io/Shadowrocket/</a><br>
 Open with Safari：<a href="https://ec-to.github.io/Shadowrocket/">https://ec-to.github.io/Shadowrocket/</a><br>
 <br><br>
-在点击 <a href="itms-services://?action=download-manifest&url=https://ec-to.github.io/Shadowrocket/Shadowrocket.plist">下载</a> 即可安装<br>
+再点击 <a href="itms-services://?action=download-manifest&url=https://ec-to.github.io/Shadowrocket/Shadowrocket.plist">下载</a> 即可安装<br>
 <a href="itms-services://?action=download-manifest&url=https://ec-to.github.io/Shadowrocket/Shadowrocket.plist">Click here to Download</a>
